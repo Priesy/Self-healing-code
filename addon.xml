@@ -2,7 +2,7 @@
 <addon id="plugin.program.acme19"
        name="[B][COLOR lime]Priesy Wizard[/COLOR]"
        version="00.00.01"
-       provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
+       provider-name="[COLORlime]• PRIESY •[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
